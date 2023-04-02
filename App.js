@@ -33,5 +33,4 @@ function CatImage() {
     </div>
   );
 }
-
 export default CatImage;
